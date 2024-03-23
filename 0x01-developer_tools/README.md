@@ -1,0 +1,2 @@
+# 0x01. Developer tools
+In this project I learn to use developer tools to edit html and css, block requests, create and run snippets on a page, detect 404 issues, move elements on a webpage, and many more.
