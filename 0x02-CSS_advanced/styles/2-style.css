@@ -6,8 +6,12 @@ body {
     color: #161616;
 }
 
-.visually-hidden {
+a {
     color: #161616;
+}
+
+.visually-hidden {
+    display: none;
 }
 
 .card-category {
